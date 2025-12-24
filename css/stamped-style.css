@@ -355,6 +355,8 @@ pre.wp-block-verse {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+  border-top: 1px solid #444;
+  border-bottom: 1px solid #444;
 }
 @keyframes slideOut {
     to {
