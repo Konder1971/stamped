@@ -351,6 +351,7 @@ pre.wp-block-verse {
     animation: slideOut 2s forwards;
 }
 #pageheader {
+  background-color: transparent!important;
   background-image: url(../images/bg-1.png);
   background-repeat: no-repeat;
   background-size: cover;
