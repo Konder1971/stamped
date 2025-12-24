@@ -8,6 +8,11 @@ Template: ascend
 
 @import url("../css/style.css");
 
+.headerclass-outer {
+  position: relative;
+  z-index: 1000;
+}
+
 #topcontrol .to_the_top {
   background-color: #fff;
 }
