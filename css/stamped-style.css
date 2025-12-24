@@ -115,11 +115,13 @@ button:focus {
 
 #kadbreadcrumbs {
     background-color: #00a651;
+    border-top: 1px solid #444;
     color: #fff;
     text-transform: none;
     font-size: 16px;
     line-height: 1;
-    padding-bottom: 9px;
+    padding-bottom: 7px;
+    padding-top: 8px;
 }
 
 #kadbreadcrumbs a {
