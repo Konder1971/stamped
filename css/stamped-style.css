@@ -345,11 +345,16 @@ pre.wp-block-verse {
   }
 }
 
-
 .home .page_head_title {
     opacity: 0;
     transform: translateY(-100px);
     animation: slideOut 2s forwards;
+}
+#pageheader {
+  background-image: url(../images/bg-1.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
 }
 @keyframes slideOut {
     to {
