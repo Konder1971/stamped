@@ -407,7 +407,7 @@ pre.wp-block-verse {
 .ht-1 img {
   border-radius: 50%;
   opacity: 0;
-  animation: fadeht1 5s forwards;
+  animation: fadeht1 6s forwards;
 }
 @keyframes fadeht1 {
     to {
@@ -422,7 +422,7 @@ pre.wp-block-verse {
 .ht-2 img {
   border-radius: 50%;
   opacity: 0;
-  animation: fadeht1 8s forwards;
+  animation: fadeht2 10s forwards;
 }
 @keyframes fadeht2 {
     to {
